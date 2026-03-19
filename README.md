@@ -73,3 +73,9 @@ I come from a solid background in administration and logistics, which has shaped
 [![Resume](https://img.shields.io/badge/Resume-24292F?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://docs.google.com/document/d/1XJj168hHRT9fa0DUAOma4tkaMbObMTAfgdkRISGy4Ho/edit?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-gabriel-wildner/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielnathan2912@gmail.com)
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DalvanaRibeiro/DalvanaRibeiro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DalvanaRibeiro/DalvanaRibeiro/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DalvanaRibeiro/DalvanaRibeiro/output/github-contribution-grid-snake.svg">
+</picture>
