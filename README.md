@@ -1,16 +1,16 @@
-# Olá, eu sou o Natan Gabriel! 👋
+# Hi, I'm Natan Gabriel! 👋
 
-Académico de **Análise e Desenvolvimento de Sistemas** e Estagiário de TI no **Senac RS**. 
+**Systems Analysis and Development** student and IT Intern at **Senac RS**. 
 
-Venho de uma base sólida em administração e logística, o que moldou a minha forma de programar: foco em processos que funcionam e soluções que facilitam o dia a dia de quem usa. Acredito em código pragmático e na entrega de MVPs que resolvem o problema de forma viável. 
+I come from a solid background in administration and logistics, which has shaped my approach to programming: I focus on processes that work and solutions that make the user's daily life easier. I believe in pragmatic coding and delivering viable MVPs that truly solve problems. 
 
-(dev não apaixonado por café 👾)
+(Dev not powered by coffee 👾)
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+## 💻 Tech Stack & Tools
 
-### 🧬 Linguagens de Programação
+### 🧬 Programming Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -23,14 +23,14 @@ Venho de uma base sólida em administração e logística, o que moldou a minha 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-### 🗄️ Bancos de Dados
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### ⚡ Low-Code
 ![Microsoft Power Platform](https://img.shields.io/badge/Power_Platform-0078D4?style=for-the-badge&logo=microsoft-power-platform&logoColor=white)
 
-### 🧰 Tecnologias e Ferramentas
+### 🧰 Tools & Environment
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -40,21 +40,21 @@ Venho de uma base sólida em administração e logística, o que moldou a minha 
 
 ---
 
-## 🎓 Formação Académica
+## 🎓 Education
 
-* **Análise e Desenvolvimento de Sistemas** — Estácio (Em andamento)
-* **Técnico em Desenvolvimento de Sistemas Bilíngue** — Senac RS
-
----
-
-## 🏆 Hackathons
-
-* **🥇 1º Lugar - Tech + Saúde (2024):** Sistema para a Central de Material e Esterilização (CME) da Unimed. A solução utilizou tecnologia **RFID** para automatizar a rastreabilidade e garantir a segurança no fluxo de materiais hospitalares.
-* **🥉 3º Lugar - Tech + Saúde (2025):** Desenvolvimento de solução para transparência no Protocolo de Manchester (Hospital Centenário), convertendo protótipos em código funcional sob pressão para reduzir a ansiedade na espera hospitalar.
+* **B.S. in Systems Analysis and Development** — Estácio (Ongoing)
+* **Bilingual Systems Development Technician** — Senac RS
 
 ---
 
-## 📊 Estatísticas
+## 🏆 Hackathons 
+
+* **🥇 1st Place - Tech + Health (2024):** Developed a solution for Unimed's Sterile Processing Department (SPD). We implemented **RFID** technology to automate traceability and ensure safety in the hospital material workflow.
+* **🥉 3rd Place - Tech + Health (2025):** Developed a transparency solution for the Manchester Triage System (Hospital Centenário), converting prototypes into functional code under pressure to reduce patient waiting-room anxiety.
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=N4atan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4atan&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -62,14 +62,14 @@ Venho de uma base sólida em administração e logística, o que moldou a minha 
 
 ---
 
-### 🌱 No que estou trabalhando agora
-- Aprimorando conhecimentos em **Clean Code** e **Arquitetura de Software**.
-- Expandindo habilidades com a **Power Platform** para automação de processos corporativos.
-- Desenvolvendo projetos pessoais integrando **React** e **Node.js**.
+### 🌱 What I'm currently working on
+- Improving my **Clean Code** and **Software Architecture** skills.
+- Expanding **Power Platform** expertise for corporate process automation.
+- Building personal projects integrating **React** and **Node.js**.
 
 ---
 
-## 📫 Contato
-[![Currículo](https://img.shields.io/badge/Currículo-24292F?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://docs.google.com/document/d/1XJj168hHRT9fa0DUAOma4tkaMbObMTAfgdkRISGy4Ho/edit?usp=sharing)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_PERFIL_LINKEDIN/)
+## 📫 Let's connect!
+[![Resume](https://img.shields.io/badge/Resume-24292F?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://docs.google.com/document/d/1XJj168hHRT9fa0DUAOma4tkaMbObMTAfgdkRISGy4Ho/edit?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-gabriel-wildner/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielnathan2912@gmail.com)
