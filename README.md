@@ -8,7 +8,7 @@ Venho de uma base sólida em administração e logística, o que moldou a minha 
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 💻 Tecnologias e Ferramentas
 
 ### 🧬 Linguagens de Programação
 ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
